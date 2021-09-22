@@ -1,4 +1,4 @@
-Animation des de Casteljau und de Boor Algorithmus zu Spline Interpolation.
+Animation des de Casteljau und de Boor Algorithmus zur Spline Interpolation.
 
 ![alt text](https://github.com/ronner1234/SplineAnimationen/blob/master/deBoorSpline.gif "de Boor")
 
