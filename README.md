@@ -1,0 +1,2 @@
+# SplineAnimationen
+Spline Interpolation Animationen
